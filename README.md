@@ -1,4 +1,5 @@
-<h1>Hi, I'm Connor! <br/><a href="https://github.com/printHelloFriend">Programmer</a>, <a href="https://www.linkedin.com/in/connorgates-/">Cybersecurity Student</a>
+<h1>Hi, I'm Connor! <br/><a href="https://github.com/printHelloFriend"> Programmer</a>, <a href="https://www.linkedin.com/in/connorgates-/">Cybersecurity Student</a>, <a href="https://medium.com/@connorgates"> Writer</a>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
