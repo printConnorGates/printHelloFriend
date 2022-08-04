@@ -1,12 +1,12 @@
-<h1>Hi, I'm Connor! <br/><a href="https://github.com/printHelloFriend"> Programmer</a>, <a href="https://www.linkedin.com/in/connorgates-/">Cybersecurity Student</a>, <a href="https://medium.com/@connorgates"> Writer</a>
+<h1>Hi, I'm Connor! <br/><a href="https://github.com/printConnorGates"> Programmer</a>, <a href="https://www.linkedin.com/in/connorgates-/">Cybersecurity Student</a>, <a href="https://medium.com/@connorgates"> Writer</a>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b>
-  - [FIM (File Integrity Monitor)](https://github.com/printHelloFriend/File-Integrity-Monitor-FIM-)
+  - [FIM (File Integrity Monitor)](https://github.com/printConnorGates/File-Integrity-Monitor-FIM-)
 - <b>Python</b>
-  - [Simple Keylogger](https://github.com/printHelloFriend/simplekeylogger)
+  - [Simple Keylogger](https://github.com/printConnorGates/simplekeylogger)
   
 <h2> 🤳 Connect with me:</h2>
 
