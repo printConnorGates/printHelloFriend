@@ -7,6 +7,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/printConnorGates/File-Integrity-Monitor-FIM-)
 - <b>Python</b>
   - [Simple Keylogger](https://github.com/printConnorGates/simplekeylogger)
+  - [Random Password Generator](https://github.com/printConnorGates/Random-password-generator)
   
 <h2> 🤳 Connect with me:</h2>
 
